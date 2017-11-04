@@ -1,0 +1,13 @@
+1. Czym jest certificate pinning? (przypinanie certyfikatów)?
+Jest to określanie, które urzędy certyfikacji są upoważnione do wystawienia certyfikatów dla danej domeny.
+
+2. Czym jest Extended Validation dla certyfikatów SSL?
+
+3. Czym są CRL OCSP?
+CRL - lista certyfikatów unieważnionych przez organ certyfikujący z różnych powodów.
+OCSP - usługa, która sprawdza ważność - status danego certyfikatu. Jest praktyczniejsze niż przeglądanie list CRL
+
+4. Co się stanie, gdy ktoś pozna klucz tajny serwera www?
+Dana osoba - złodziej, ma dostęp do wszystkich danych oraz informacji używanych podczas połączenia z serwerem.
+
+	
